@@ -1,2 +1,2 @@
 # proyecto
-para que se mire se ocupa los archivos de Bootstrap
+para que se vea, se ocupa los archivos de Bootstrap

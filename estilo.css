@@ -1,0 +1,17 @@
+html, body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+section{
+	min-height: 100%;
+}
+#parteUno{
+	background-image: url(http://adrielmartin.es/wp-content/uploads/2014/03/ciudad-noche.jpg);
+}
+#parteDos{
+	background-image: url(http://turpogoda.ru/photo/month_city_img/193_8.jpg);
+}
+img{
+	opacity: 0.8;
+}
